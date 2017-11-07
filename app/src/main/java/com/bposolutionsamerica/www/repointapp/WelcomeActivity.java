@@ -13,5 +13,7 @@ public class WelcomeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_welcome);
         TextView btn1 = (TextView)findViewById(R.id.button1);
 
+
+
     }
 }
